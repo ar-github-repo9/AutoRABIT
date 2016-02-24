@@ -2,18 +2,22 @@
     <version>35.0</version>
     <types>
         <members>ARApexClass4</members>
+        <members>ARApexClass5</members>
         <name>ApexClass</name>
     </types>
     <types>
         <members>AR_AccountObj2__c</members>
+        <members>AR_AccountObject3__c</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>AR_AccountObj2__c-AR-AccountObj2 Layout</members>
+        <members>AR_AccountObject3__c-AR-AccountObject3 Layout</members>
         <name>Layout</name>
     </types>
     <types>
         <members>AR_AccountObj2__c</members>
+        <members>AR_AccountObject3__c</members>
         <name>SharingRules</name>
     </types>
 </Package>
