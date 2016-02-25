@@ -1,13 +1,13 @@
-public Class ARApexClass6
+public Class ARApexClass7
 {
 public Account createAccount(String name)  //method to create account
 {
 //Comment1
 //leela comment
 //comment2
-Account acc6= new Account();
-acc6.Name = name;
+Account acc7= new Account();
+acc7.Name = name;
 Contact con=new Contact();
-return acc6;
+return acc7;
 }
 }

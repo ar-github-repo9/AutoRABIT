@@ -3,6 +3,21 @@
     <types>
         <members>ARApexClass5</members>
         <members>ARApexClass6</members>
+        <members>ARApexClass7</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AR_AccountObject4__c</members>
+        <members>AR_AccountObject5__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>AR_AccountObject5__c-AR-AccountObject5 Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>AR_AccountObject4__c</members>
+        <members>AR_AccountObject5__c</members>
+        <name>SharingRules</name>
     </types>
 </Package>
