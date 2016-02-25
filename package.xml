@@ -2,18 +2,26 @@
     <version>35.0</version>
     <types>
         <members>ARSFApexClass1</members>
+        <members>ARSFApexClass2</members>
+        <members>ARSFApexClass4</members>
         <name>ApexClass</name>
     </types>
     <types>
         <members>AR_AccObj1__c</members>
+        <members>AR_AccObj2__c</members>
+        <members>AR_AccObj3__c</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>AR_AccObj1__c-AR-AccObj1 Layout</members>
+        <members>AR_AccObj2__c-AR-AccObj2 Layout</members>
+        <members>AR_AccObj3__c-AR-AccObj3 Layout</members>
         <name>Layout</name>
     </types>
     <types>
         <members>AR_AccObj1__c</members>
+        <members>AR_AccObj2__c</members>
+        <members>AR_AccObj3__c</members>
         <name>SharingRules</name>
     </types>
 </Package>
