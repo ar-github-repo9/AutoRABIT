@@ -5,6 +5,7 @@
         <members>ARApexClass6</members>
         <members>ARApexClass7</members>
         <members>ARApexClass8</members>
+        <members>ARApexClass9</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -15,11 +16,13 @@
         <members>AR_AccountObject4__c</members>
         <members>AR_AccountObject5__c</members>
         <members>AR_AccountObject6__c</members>
+        <members>Ar_Accountobject7__c</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>AR_AccountObject5__c-AR-AccountObject5 Layout</members>
         <members>AR_AccountObject6__c-AR-AccountObject6 Layout</members>
+        <members>Ar_Accountobject7__c-Ar-Accountobject7 Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -47,6 +50,7 @@
         <members>AR_AccountObject4__c</members>
         <members>AR_AccountObject5__c</members>
         <members>AR_AccountObject6__c</members>
+        <members>Ar_Accountobject7__c</members>
         <name>SharingRules</name>
     </types>
 </Package>

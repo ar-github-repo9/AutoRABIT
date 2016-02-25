@@ -15,6 +15,10 @@
         <apexClass>ARApexClass8</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>ARApexClass9</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -26,6 +30,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>AR_AccountObject6__c-AR-AccountObject6 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Ar_Accountobject7__c-Ar-Accountobject7 Layout</layout>
     </layoutAssignments>
     <userLicense>Work.com Only</userLicense>
 </Profile>
