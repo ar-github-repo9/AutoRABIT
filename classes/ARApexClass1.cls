@@ -1,6 +1,6 @@
 public Class ARApexClass1
 {
-public Account createAccount(String name)  //method to create account
+public Account createAccount(String name)  //Used in QA Testing
 {
 //Comment1
 //leela comment
