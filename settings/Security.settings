@@ -29,5 +29,6 @@
         <forceRelogin>true</forceRelogin>
         <lockSessionsToDomain>true</lockSessionsToDomain>
         <lockSessionsToIp>false</lockSessionsToIp>
+        <securityCentralKillSession>true</securityCentralKillSession>
     </sessionSettings>
 </SecuritySettings>
